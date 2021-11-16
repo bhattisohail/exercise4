@@ -1,0 +1,16 @@
+# Ignoring exe files
+
+*.exe
+*.exe~
+
+# Ignoring files with 'o' extension
+
+*.o
+
+# Ignoring all files with ‘jar’ extension
+
+*.jar
+
+# Ignoring the whole libraries directory
+
+libraries/
